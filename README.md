@@ -21,7 +21,10 @@ My interests: web development, machine learning, Python scripting, automation.
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,react,vue,docker,git,aws,nginx,pandas,numpy,matplotlib,scikit-learn,sqlalchemy&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman,webstorm,jetbrains,n8n,datagrip&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman,webstorm,ros,jetbrains,n8n,datagrip&perline=7" />
+    <img src="https://img.shields.io/badge/Gazebo-7838A3?style=flat-square&logo=openscad&logoColor=white" alt="Gazebo" />
+    <img src="https://img.shields.io/badge/Webots-3A6BA5?style=flat-square&logo=webots&logoColor=white" alt="Webots" />
+    <img src="https://img.shields.io/badge/RViz-00599C?style=flat-square&logo=qt&logoColor=white" alt="RViz" />
     <br>
   </p>
 </details>
