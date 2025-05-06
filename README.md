@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm kirkiiruch</h1>
 
 <p align="center">
-  <img width="600" src="docs/assets/github-snake.svg" alt="snake"/>
+  <img width="600" src="docs/assets/github-snake.svg?raw=true" alt="snake"/>
 </p>
 
 ## Contacts
