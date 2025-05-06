@@ -23,6 +23,7 @@ jobs:
           github_user_name: kirkiiruch
           outputs: |
             docs/assets/github-snake.svg?palette=github-dark
+          months: 12
 
       - name: Commit snake SVG
         run: |
