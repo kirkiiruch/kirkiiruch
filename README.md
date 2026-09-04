@@ -4,6 +4,12 @@
   <img width="600" src="docs/assets/github-snake.svg" alt="snake"/>
 </p>
 
+<p align="center">
+  <a href="https://kirkiiruch.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-kirkiiruch.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=60A5FA&labelColor=111827" alt="Portfolio Website" />
+  </a>
+</p>
+
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kirkiruch)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kirillslyzhuck62@gmail.com)
